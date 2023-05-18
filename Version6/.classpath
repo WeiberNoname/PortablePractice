@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/space/Downloads/freetts-1.2.2-bin/freetts-1.2/bin/Client.jar"/>
+	<classpathentry kind="lib" path="C:/Users/space/Downloads/freetts-1.2.2-bin/freetts-1.2/bin/EmacspeakServer.jar"/>
+	<classpathentry kind="lib" path="C:/Users/space/Downloads/freetts-1.2.2-bin/freetts-1.2/bin/FreeTTSEmacspeakServer.jar"/>
+	<classpathentry kind="lib" path="C:/Users/space/Downloads/freetts-1.2.2-bin/freetts-1.2/bin/FreeTTSHelloWorld.jar"/>
+	<classpathentry kind="lib" path="C:/Users/space/Downloads/freetts-1.2.2-bin/freetts-1.2/bin/HelloWorld.jar"/>
+	<classpathentry kind="lib" path="C:/Users/space/Downloads/freetts-1.2.2-bin/freetts-1.2/bin/JTime.jar"/>
+	<classpathentry kind="lib" path="C:/Users/space/Downloads/freetts-1.2.2-bin/freetts-1.2/bin/MixedVoices.jar"/>
+	<classpathentry kind="lib" path="C:/Users/space/Downloads/freetts-1.2.2-bin/freetts-1.2/bin/Player.jar"/>
+	<classpathentry kind="lib" path="C:/Users/space/Downloads/freetts-1.2.2-bin/freetts-1.2/bin/Server.jar"/>
+	<classpathentry kind="lib" path="C:/Users/space/Downloads/freetts-1.2.2-bin/freetts-1.2/bin/WebStartClock.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
